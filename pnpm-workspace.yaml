@@ -1,0 +1,7 @@
+minimumReleaseAge: 1440
+packageManagerStrictVersion: true
+blockExoticSubdeps: true
+
+ignoredBuiltDependencies:
+  - '@swc/core'
+  - esbuild
